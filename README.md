@@ -42,7 +42,13 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/alibardestani"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/alibardesstani"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>
-  <a href="https://instagram.com/alibardesstani"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
+  <a href="https://linkedin.com/in/alibardestani" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/alibardestani" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" height="40" />
+  </a>
+  <a href="https://instagram.com/alibardesstani" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
 </p>
