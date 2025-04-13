@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working on **deep learning models for personalized recommendation systems**
 - 🌱 I’m currently learning **data engineering concepts and big data tools**
-- 👯 I’m looking to collaborate on **backend & data-intensive projects**
+- 👯 I’m looking to collaborate on **data-driven backend systems and real-time data processing projects**
 - 📫 Reach me at: **alibardesstani@gmail.com**
 - 📄 Know more: [LinkedIn](https://www.linkedin.com/in/alibardestani)
-- ⚡ Fun fact: *I love turning raw data into stories — like magic, but with Python and SQL.*
+- ⚡ Fun fact: *I love turning raw data into stories*
 
 ---
 
@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
