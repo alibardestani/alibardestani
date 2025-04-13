@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ali Bardestani</h1>
-<h3 align="center">A curious data enthusiast exploring real-world AI with Python and deep learning</h3>
+<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; color: white; margin-bottom: 20px;">
+  <h1>Hi 👋, I'm Ali Bardestani</h1>
+  <h3>A curious data enthusiast exploring real-world AI with Python and deep learning</h3>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alibardestani&label=Profile%20views&color=0e75b6&style=flat" alt="alibardestani" />
